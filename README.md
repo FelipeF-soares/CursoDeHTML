@@ -108,5 +108,5 @@
 </body>
 </html>
 ```  
-
+## acesse o site `` https://felipef-soares.github.io/CursoDeHTML/index.html `` para vizualizar o resultado.
 ##### Para mais informações acesse o site do Curso em Vídeo `` https://www.cursoemvideo.com/``.
